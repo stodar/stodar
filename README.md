@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - ✨ I’m addicted to learning and growing every day
 - 💬 Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/saad-dardar-6b5b0521a/)
-  - [![alt text][1.2]][1][Twitter](https://twitter.com/s2dar)
+  - :bird: [Twitter](https://twitter.com/s2dar)
 
