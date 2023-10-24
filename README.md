@@ -13,3 +13,4 @@ Here are some ideas to get you started:
   - :office: [LinkedIn](https://www.linkedin.com/in/saad-dardar-6b5b0521a/)
   - :bird: [Twitter](https://twitter.com/s2dar)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stodar&layout=pie)](https://github.com/stodar/github-readme-stats)
