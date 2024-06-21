@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on data science projects
+- 🔭 I’m currently working on data science projects and Spring Boot - Angular
 - 📑 I'm currently learning : Spring Boot, Angular, Go lang
 - 🌱 I love programming, data science, sysadmin and books
 - ✨ I’m addicted to learning and growing every day
